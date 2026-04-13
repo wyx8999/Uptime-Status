@@ -73,32 +73,7 @@
             class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
           >Uptime-Status</a> Version {{ pkg.version }}
         </div>
-        <div>
-          基于 <a 
-            href="https://uptimerobot.com" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
-          >UptimeRobot</a> 接口 | 检测频率 5 分钟
-        </div>
-        <div>
-          <a 
-            href="https://beian.miit.gov.cn/"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
-          >
-            陕ICP备2024028531号-2
-          </a> | 
-          <a 
-            href="https://beian.mps.gov.cn/#/query/webSearch?code=61011602000637"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
-          >
-            陕公网安备61011602000637号
-          </a>
-        </div>
+        
       </div>
     </div>
   </footer>
